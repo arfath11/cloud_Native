@@ -17,7 +17,7 @@
 
 
 
-### **Step 1`=: Install dependencies**
+### **Step 1 =: Install dependencies**
 
 The application uses the **`psutil`** and **`Flask`, Plotly, boto3** libraries. Install them using pip:
 
