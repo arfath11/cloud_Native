@@ -1,9 +1,10 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
+<img width="1044" alt="Screenshot 2023-08-05 at 3 08 52 PM" src="https://github.com/arfath11/cloud_Native/assets/74487575/1a3a8e2a-52b1-4d7f-9303-fca6eb14209b">
 
 
 <img width="1034" alt="Screenshot 2023-08-05 at 3 09 00 PM" src="https://github.com/arfath11/cloud_Native/assets/74487575/b4fa1f57-85c3-4d79-ae3a-b2db54d474ff">
 
-<img width="1034" alt="Screenshot 2023-08-05 at 3 09 00 PM" src="https://github.com/arfath11/cloud_Native/assets/74487575/43f7e621-96ee-4e15-b5d0-9b6620fd3af6">
+
 
 
 ## **Prerequisites** !
